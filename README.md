@@ -1,4 +1,4 @@
 # vue-list-dropdown
 vue cli unordered list component dropdown
 
-#Using bootstrap for styling the nav but utilizing vue js to toggle dropdown list
+# Basic drop-down using bootsrap css and v-model to determine the dropdown toggle instead of loading the bootstrap jquery dependencies 
