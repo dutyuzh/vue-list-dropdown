@@ -10,7 +10,6 @@
 </template>
 
 <script>
-
     export default {
         data() {
             return {
@@ -23,6 +22,5 @@
                 required: true
             }
         },
-
     }
 </script>
